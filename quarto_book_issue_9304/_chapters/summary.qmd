@@ -1,0 +1,6 @@
+# Summary
+
+In summary,this sample book has demonstrated a reproducible bug in the figure crossref system that appears to be related to how the `_quarto.yml` file specifies the paths to book sections (chapters) that are contained within a subdirectory.
+
+Let's not forget the necessary sample citation: @knuth84.
+
